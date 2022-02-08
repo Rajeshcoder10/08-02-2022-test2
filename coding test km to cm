@@ -1,0 +1,10 @@
+# program to convert kilometert to centemeter
+km = int (input("Enter the length in km: "))
+cent = (km*100000)
+print("the length of km in cmis ",cent)
+
+
+output:
+
+Enter the length in km: 4
+the length of km in cmis  400000
